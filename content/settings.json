@@ -2,12 +2,12 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "Zakaria Fadli",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Zakaria Fadli",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "I am an software engineer with extensive exprience building and deploying IoT devices.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/zakaria1193",
@@ -17,10 +17,10 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Zakaria" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "CV", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
