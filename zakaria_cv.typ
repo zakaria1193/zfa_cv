@@ -17,7 +17,6 @@
 )
 
 
-
 = Experience
 
 #resume-entry(
@@ -96,3 +95,23 @@
 #resume-skill-item("CI/CD", (strong("Gitlab CI"), "Github Actions"))
 // Testing
 #resume-skill-item("Testing", ("Robot Framework", ))
+
+
+
+#resume-skill-item("Mastered",
+(
+  strong("C"),
+  strong("Python"),
+  strong("RTOS"),
+  "Makefile",
+  strong("Gitlab CI"),
+  "ARMv6/v7 architecture",
+  "GNU Toolchain"
+  "GDB scripting"
+))
+#resume-skill-item("Used",
+(
+  
+))
+
+ss
